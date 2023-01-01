@@ -2,8 +2,8 @@ To use this script you need python installed in your machine.
 
 ## _**Installation steps**_
 
-1.  clone this repo: `git clone https://github.com/cs-fedy/submit-crm`
-2.  change your current directory to `submit-crm` dir: `cd submit-crm`
+1.  clone this repo: `git clone https://github.com/AsmaKafi/submit-crm1`
+2.  change your current directory to `submit-crm1` dir: `cd submit-crm1`
 3.  install the virtualenv package if you don't have it: `pip install virtualenv`
 4.  create new virtualenv: `virtualenv venv`
 5.  install the required packages: `pip install -r requirements.txt`
